@@ -1,0 +1,22 @@
+name: smessentials
+main: Krazzedklown\Main
+api: [3.0.0, 4.0.0]
+version: 1.0.0
+author: Krazzedklown
+commands:
+  heal:
+    description: "Heal yourself."
+  feed:
+    discription: "Feed yourself."
+  gmc:
+    description: "Change Gamemode to Creative."
+    permission: gmc.use.command
+  gms:
+    description: "Change Gamemode to Survival."
+    permission: gms.use.command
+  gma:
+    description: "Change Gamemode to Adventure."
+    permission: gma.use.command
+  gmp:
+    description: "Change Gamemode to Spectator."
+    permission: gmp.use.command
