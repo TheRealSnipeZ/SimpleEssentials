@@ -7,7 +7,7 @@ Simple Essentials is a plugin that "shortens" Commands.
 
 gmc.use.command
 
-This command is Just a short wag to do "/gamemode c"
+This command is Just a short way to do "/gamemode c"
 
 ### /gms
 
